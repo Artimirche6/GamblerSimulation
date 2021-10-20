@@ -4,8 +4,8 @@ public class GamblerSimulator
 {
 	public GamblerSimulator()
 	{
-		int stake = 100;	//stake value per game
-		int bet = 1;	// bet per game
+		int stake = 100;	//stake $100 every day
+		int bet = 1;	// bet $1 per game
 		
 	}
 	
