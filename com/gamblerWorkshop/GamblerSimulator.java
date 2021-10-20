@@ -1,3 +1,5 @@
+package com.gamblerWorkshop;
+
 public class GamblerSimulator
 {
 	public GamblerSimulator()
